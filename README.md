@@ -15,12 +15,13 @@ Inclute Snippets para:
 
 Incluye Syntax Highlight para: 
 
-- Si                  
+- Si       
+- Sino
 - Registro
 - Mientras            
 - Proced
-- Repetir             
 - Función
+- Repetir             
 - O                  
 - Y
 - Ref                 
