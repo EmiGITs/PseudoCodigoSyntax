@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Proced $1($2)
+	$3
+FProced
+]]></content>
+	<tabTrigger>Proced</tabTrigger>
+	<scope>source.caece</scope>
+	<description>Crear un procedimiento</description>
+</snippet>

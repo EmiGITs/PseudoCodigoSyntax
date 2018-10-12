@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Mientras $1
+	$2
+FinMientras
+]]></content>
+	<tabTrigger>Mientras</tabTrigger>
+	<scope>source.caece</scope>
+	<description>Crear iteración Mientras</description>
+</snippet>

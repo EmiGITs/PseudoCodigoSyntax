@@ -1,0 +1,25 @@
+%YAML 1.2
+---
+name: Caece
+scope: source.caece
+contexts:
+  main:
+    - match: \b(Mientras|Repetir|Hasta Que|FinMientras)\b
+      scope: constant.character
+    - match: '"'
+      push: string
+    - match: \b(Proced|Función|FFunc|FProced)\b
+      scope: keyword.control
+    - match: \b(Si|Fsi|Segun|FSegun|Sino)\b
+      scope: support.type
+    - match: \b(o|O|y|Y|Ref)\b
+      scope: string.regexp
+    - match: \b(FReg|Freg|Val|Registro)\b
+      scope: entity.name.type
+
+  string:
+    - meta_scope: string.quoted.double.c
+    - match: \\.
+      scope: constant.character.escape.c
+    - match: '"'
+      pop: true

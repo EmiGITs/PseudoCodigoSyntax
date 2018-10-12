@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+↑
+]]></content>
+	<tabTrigger>Flecha</tabTrigger>
+	<scope>source.caece</scope>
+	<description>Pone un indicador de indirección</description>
+</snippet>

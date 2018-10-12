@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Repetir
+	$1
+Hasta Que $2
+]]></content>
+	<tabTrigger>Repetir</tabTrigger>
+	<scope>source.caece</scope>
+	<description>Crear iteración Repetir</description>
+</snippet>

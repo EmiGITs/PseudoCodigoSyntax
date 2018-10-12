@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Función $1($2)$3
+	$4
+FFunc
+]]></content>
+	<tabTrigger>Función</tabTrigger>
+	<scope>source.caece</scope>
+	<description>Crear Función</description>
+</snippet>

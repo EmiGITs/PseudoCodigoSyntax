@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Si $1
+
+Fsi
+]]></content>
+	<tabTrigger>Si</tabTrigger>
+	<scope>source.caece</scope>
+	<description>Crear condicional Si</description>
+</snippet>

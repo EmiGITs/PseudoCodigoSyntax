@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Segun
+	$1
+FSegun
+]]></content>
+	<tabTrigger>Segun</tabTrigger>
+	<scope>source.caece</scope>
+	<description>Crear Segun</description>
+</snippet>

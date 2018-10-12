@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+$1= Registro
+	$2
+FReg
+]]></content>
+	<tabTrigger>Registro</tabTrigger>
+	<scope>source.caece</scope>
+	<description>Crear Registro</description>
+</snippet>

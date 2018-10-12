@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Ref $1
+]]></content>
+	<tabTrigger>Ref</tabTrigger>
+	<scope>source.caece</scope>
+	<description>Traer por Referencia</description>
+</snippet>
