@@ -3,18 +3,27 @@ Syntax y Snippets que uso en Sublime Text 3 para escribir Pseudocodigo
 
 Inclute Snippets para:
 
-- Si                  - Registro
-- Mientras            - Proced
-- Repetir             - Función
-- Ref                 - Val
+- Si                  
+- Registro
+- Mientras            
+- Proced
+- Repetir             
+- Función
+- Ref                 
+- Val
 - Segun
 Incluye Syntax Highlight para: 
 
-- Si                  - Registro
-- Mientras            - Proced
-- Repetir             - Función
-- O                   - Y
-- Ref                 - Val
+- Si                  
+- Registro
+- Mientras            
+- Proced
+- Repetir             
+- Función
+- O                  
+- Y
+- Ref                 
+- Val
 - Segun
 
 
