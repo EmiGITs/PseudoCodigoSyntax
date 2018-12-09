@@ -7,7 +7,8 @@ Inclute Snippets para:
 - Registro
 - Mientras            
 - Proced
-- Repetir             
+- Repetir
+- Flecha
 - Función
 - Para
 - Ref                 
