@@ -9,6 +9,7 @@ Inclute Snippets para:
 - Proced
 - Repetir             
 - Función
+- Para
 - Ref                 
 - Val
 - Segun
@@ -21,7 +22,8 @@ Incluye Syntax Highlight para:
 - Mientras            
 - Proced
 - Función
-- Repetir             
+- Repetir
+- Para
 - O                  
 - Y
 - Ref                 
