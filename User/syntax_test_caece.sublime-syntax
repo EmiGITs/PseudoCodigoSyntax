@@ -4,7 +4,7 @@ name: Caece
 scope: source.caece
 contexts:
   main:
-    - match: \b(Mientras|Repetir|Hasta Que|FinMientras)\b
+    - match: \b(Mientras|Repetir|Hasta Que|FinMientras|FPara|Para)\b
       scope: constant.character
     - match: '"'
       push: string

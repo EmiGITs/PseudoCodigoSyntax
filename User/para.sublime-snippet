@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Para
+	$1
+FPara
+]]></content>
+	<tabTrigger>Para</tabTrigger>
+	<scope>source.caece</scope>
+	<description>Crear iteración Para/For</description>
+</snippet>
